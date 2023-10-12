@@ -1,0 +1,22 @@
+body{
+    background-color: rgb(175, 175, 175);
+}
+th{
+    background-color: rgb(175, 175, 175);
+}
+h1.judul{
+    margin-bottom: 100px;
+    text-align: center;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+img.foto{
+    border-radius: 10px;
+    border-color: rgb(71, 102, 255);
+    margin-right: 200px;
+}
+p{
+    margin-left: 100px;
+}
+table{
+    margin-left: 100px;
+}
